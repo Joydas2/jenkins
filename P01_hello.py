@@ -1,4 +1,4 @@
 # Author: OMKAR PATHAK
 # This program prints the entered message
 
-print("hello")
+print("hello 7 ")
